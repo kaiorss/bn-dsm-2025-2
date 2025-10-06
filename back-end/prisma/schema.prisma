@@ -35,5 +35,4 @@ model Cliente {
   uf                String
   cep               String
   celular           String
-
 }

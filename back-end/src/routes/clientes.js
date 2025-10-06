@@ -1,6 +1,7 @@
 import { Router } from 'express'
 import controller from '../controllers/clientes.js'
 
+
 const router = Router()
 
 router.post('/', controller.create)

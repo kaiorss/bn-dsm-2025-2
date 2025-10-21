@@ -1,4 +1,3 @@
-import { includeRelations } from '../lib/utils.js'
 /*
   Função que processa a query string da URL da requisição
   e verifica se o parâmetro "include" foi passado. Em caso
